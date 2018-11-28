@@ -33,8 +33,8 @@ body{
 .title-text{
     width: 50vw;
     height: 5vh;
-    font-size: 0.8em;
-    color: #F6F8FF;
+    font-size: 1.5em;
+    color: rgb(13, 60, 228);
 }
 
 .btn-sub1{
